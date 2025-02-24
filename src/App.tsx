@@ -11,6 +11,7 @@ import Nav from './components/nav';
 function App() {
     return (
         <>
+
             <Nav />
             <Button>Test</Button>
             <Accordion
